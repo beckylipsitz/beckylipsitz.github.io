@@ -14,14 +14,22 @@ Don't be fooled. I'm covered in glitter because that little baby was covered in 
 
 So there we were, 1948. The old man with the Latvian dad and the gold glitter and the many well-intentioned sisters weds another person, a military nurse, covered in silver glitter, and they transfer their silver and gold glitter to four adorable babies: our uncle, my dad, your dad, and your mom.
 
-This is how nurture works. This is how a pandemic works. This is how love works. This is how insecurity works. We are just saturated in glitter. No one really knows how it was made, or where it originated, or how to get it off.
+This is how nurture works. This is how a pandemic works. This is how love works. This is how insecurity works. We are just saturated in glitter. No one really knows how it was made, or where it originated, or how to remove it.
 
-I'll fast-forward through our uncle, my dad, your dad, and your mom's childhoods, because to actually go through that at length would require so many different glitter explanations that I don't have time for.
+If god is like water
+Everywhere
+Required to stay alive
+Sometimes too prevalent
+Sometimes too absent
+In the air we breathe
+The majority of what makes us up
 
-My dad got covered in a different kind of glitter than your dad or your mom. Something about being the middle son. Something about circuitry and Sondheim. Something about the expectations we have for others based on nothing but the bare minimum we know about them without striking up a dialogue. 
+Yeah, if god is like that
 
- ```tsql
- SELECT *
- FROM nurture.tables
- WHERE [name] = 'overridden'
- ```
+then maybe god knew to pull the three of us together from our obscure beginnings (Russia, Deep River, Harleysville)
+to put us in an airbnb together with a trashcat
+to request that we shake all our glitter onto the floor, sweep it into a pile of all three of our combined glitters, and painstakingly, inefficiently, clean each little square off til it shines
+til we can see our reflection reflected a million times, one in each shard, like a hall of mirrors
+only knowing which way to turn because we have each other
+and hoping the next generation sees what we did and feels that it's safe and exciting to enter the funhouse
+despite all the destruction it took to build
