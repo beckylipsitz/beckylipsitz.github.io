@@ -17,11 +17,17 @@ So there we were, 1948. The old man with the Latvian dad and the gold glitter an
 This is how nurture works. This is how a pandemic works. This is how love works. This is how insecurity works. We are just saturated in glitter. No one really knows how it was made, or where it originated, or how to remove it.
 
 If god is like water
+
 Everywhere
+
 Required to stay alive
+
 Sometimes too prevalent
+
 Sometimes too absent
+
 In the air we breathe
+
 The majority of what makes us up
 
 Yeah, if god is like that
